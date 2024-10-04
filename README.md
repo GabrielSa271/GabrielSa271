@@ -12,7 +12,7 @@ Tenho experiência nas seguintes tecnologias:
 Estou empolgado com as possibilidades que o desenvolvimento de software oferece e busco não só aprimorar minhas habilidades, mas também compartilhar minhas ideias e colaborar com a comunidade tech. Vamos construir algo incrível juntos!
 
 
-![Texto Alternativo](https://img.icons8.com/fluent/512/python.png)
+
 
 <!--
 **GabrielSa271/GabrielSa271** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
