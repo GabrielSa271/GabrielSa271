@@ -1,15 +1,15 @@
 ## Olá! Eu sou Gabriel Sá 👋
 
-## Atualmente estou me formando em Análise e Desenvolvimento de Sistemas pela Faculdade de Tecnologia SENAI Félix Guisard de Taubaté. Sou um programador dedicado e motivado, com o objetivo de crescer constantemente na carreira, sempre em busca de novos aprendizados e formas de contribuir com a comunidade de desenvolvedores.
+Atualmente estou me formando em Análise e Desenvolvimento de Sistemas pela Faculdade de Tecnologia SENAI Félix Guisard de Taubaté. Sou um programador dedicado e motivado, com o objetivo de crescer constantemente na carreira, sempre em busca de novos aprendizados e formas de contribuir com a comunidade de desenvolvedores.
 
-## Tenho experiência nas seguintes tecnologias:
+Tenho experiência nas seguintes tecnologias:
 
-##    Linguagens de Programação: Python, Java, JavaScript
-##    Desenvolvimento Web: HTML5, CSS3, React, Node.js
-##    Desenvolvimento Mobile: React Native
-##    Banco de Dados: MySQL
+    Linguagens de Programação: Python, Java, JavaScript
+    Desenvolvimento Web: HTML5, CSS3, React, Node.js
+    Desenvolvimento Mobile: React Native
+    Banco de Dados: MySQL
 
-## Estou empolgado com as possibilidades que o desenvolvimento de software oferece e busco não só aprimorar minhas habilidades, mas também compartilhar minhas ideias e colaborar com a comunidade tech. Vamos construir algo incrível juntos!
+Estou empolgado com as possibilidades que o desenvolvimento de software oferece e busco não só aprimorar minhas habilidades, mas também compartilhar minhas ideias e colaborar com a comunidade tech. Vamos construir algo incrível juntos!
 
 
 ![Texto Alternativo](https://img.icons8.com/fluent/512/python.png)
